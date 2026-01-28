@@ -1,6 +1,6 @@
 # Emotional Dynamics in Narrative Reading: Survey Analysis 
 
-This repository analyzes survey responses to two short fictional stories (“Story A” and “Story B”) to understand how readers’ emotional trajectories (valence and arousal), prediction certainty**, surprise, and engagement relate to belief formation and interpretation.
+This repository analyzes survey responses to two short fictional stories (“Story A” and “Story B”) to understand how readers’ emotional trajectories (valence and arousal), prediction certainty, surprise, and engagement relate to belief formation and interpretation.
 
 The workflow combines:
 - **Descriptive visualization** of emotional change distributions and relationships
