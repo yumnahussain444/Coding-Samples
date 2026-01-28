@@ -1,6 +1,6 @@
-# Emotional Dynamics in Narrative Reading: Survey Analysis (EDA + Stats + NLP + ML)
+# Emotional Dynamics in Narrative Reading: Survey Analysis (
 
-This repository analyzes survey responses to two short fictional stories (“Story A” and “Story B”) to understand how readers’ **emotional trajectories** (valence and arousal), **prediction certainty**, **surprise**, and **engagement** relate to belief formation and interpretation.
+This repository analyzes survey responses to two short fictional stories (“Story A” and “Story B”) to understand how readers’ emotional trajectories (valence and arousal), prediction certainty**, surprise, and engagement relate to belief formation and interpretation.
 
 The workflow combines:
 - **Descriptive visualization** of emotional change distributions and relationships
@@ -10,7 +10,7 @@ The workflow combines:
 
 ---
 
-## Research Questions (What this project tests)
+## Research Questions 
 
 1. **Do emotional changes across chapters differ between Story A and Story B?**
    - Valence change (emotional tone: negative → positive)
@@ -26,10 +26,10 @@ The workflow combines:
    - Scatter/regression visualizations using engagement ratio and an emotional intensity index
 
 5. **What language patterns appear in participants’ written belief statements? (NLP)**
-   - Word clouds + top-word frequency lists for Story A vs Story B beliefs
+   - Word clouds and top-word frequency lists for Story A vs Story B beliefs
 
 6. **Can we predict belief elaboration length from emotional and engagement features? (ML)**
-   - Train/test split + standardized linear regression, report **R²** and **RMSE**
+   - Train/test split and standardized linear regression, report R² and RMSE
 
 ---
 
