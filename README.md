@@ -14,7 +14,7 @@ This repository contains end-to-end data tasks and research pipelines in Stata a
 - Court opinion parsing and descriptive summaries (LexisNexis text exports)
 - Ten-Q filing retrieval with word and sentence counts plus diluted earnings-per-share extraction (United States Securities and Exchange Commission public filings)
 - Linking banned book records to crowdsourced genre tags (Goodreads tags + PEN America banned book dataset)
-- Firm financial metrics and macroeconomic merge with country plots (International Monetary Fund test materials)
+- Firm financial metrics and macroeconomic merge with country plots 
 - Survey analysis of emotional change and belief statements (descriptive statistics, regression, basic text analysis)
 
 ## How to run
