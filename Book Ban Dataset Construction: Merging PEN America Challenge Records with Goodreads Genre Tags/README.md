@@ -92,7 +92,6 @@ Core steps:
 - scans across genre tag fields and flags category indicators
 - saves the final dataset without date normalization applied
 
-This step is rule-based classification, not machine learning.
 
 ### 05_date_organization.do
 Cleans and standardizes the PEN America date field related to challenge or removal timing.
