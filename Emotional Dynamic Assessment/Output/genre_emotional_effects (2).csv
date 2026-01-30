@@ -1,0 +1,12 @@
+fav_genre,valence_surprise_A,arousal_surprise_A,valence_change_A,arousal_change_A,count,surprise_anova_F,surprise_anova_p,change_anova_F,change_anova_p
+0,5.0,3.5,3.0,2.5,2,,,,
+Biographies,2.0,2.0,-3.5,-1.0,2,,,,
+Fanfiction,3.895,3.0,-0.526,-0.474,19,,,,
+Fantasy,3.533,3.2,0.467,-0.733,15,,,,
+Historical Fiction,4.9,3.5,0.0,-0.7,10,,,,
+Historical Non-Fiction,3.225,2.9,-0.7,-0.175,40,,,,
+Mystery,3.545,2.364,0.545,-0.364,11,,,,
+Romance,3.0,2.6,-0.3,-0.7,10,,,,
+Sci-Fi,3.75,3.125,-0.5,-0.5,24,,,,
+Self-help,4.439,3.61,-0.268,-0.61,41,,,,
+Thriller,4.0,3.885,-0.5,0.077,26,,,,
