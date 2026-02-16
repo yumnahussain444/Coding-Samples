@@ -33,7 +33,7 @@ The PEN America input files provide book challenge or removal records (title, au
 
 ## Natural language processing components 
 
-This pipeline includes lightweight natural language processing techniques implemented in Stata. These steps are not machine learning model training; they are deterministic text processing and rule-based classification.
+This pipeline includes lightweight natural language processing techniques implemented in Stata.
 
 Key natural language processing features:
 - **Unicode normalization and title standardization**
