@@ -35,10 +35,6 @@ This notebook expects the following files on Google Drive:
 - `form.idx` (or `form.idx.gz`)  
   The master index file that lists filings, including form type, company name, firm identifier, filing date, and archive path.
 
-Paths used in the notebook:
-- `CIK_LIST_PATH = /content/drive/MyDrive/NYU_Datatask/CIK_list.txt`
-- `MASTER_IDX_PATH = /content/drive/MyDrive/NYU_Datatask/form.idx`
-
 ---
 
 ## Step-by-step workflow
